@@ -1,4 +1,4 @@
-# Module 12 — File Permissions & Directory Security
+# Module 13 — File Permissions & Directory Security
 
 ## What this covers
 - World-writable files and directories
